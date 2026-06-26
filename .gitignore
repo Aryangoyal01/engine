@@ -1,0 +1,7 @@
+build/
+venv/
+.vscode/
+CMakeFiles/
+*.exe
+*.obj
+*.dll
