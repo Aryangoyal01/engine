@@ -34,7 +34,7 @@ Unlike traditional game engines, Aetheris is designed for **interactive simulati
 
 ---
 
-## 🛠 Technology Stack
+## Technology Stack
 
 * **Language:** C++20
 * **Graphics API:** OpenGL 4.3+
