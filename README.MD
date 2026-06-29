@@ -8,7 +8,7 @@ Unlike traditional game engines, Aetheris is designed for **interactive simulati
 
 ---
 
-## ✨ Features
+## Features
 
 ### Current
 
@@ -45,7 +45,7 @@ Unlike traditional game engines, Aetheris is designed for **interactive simulati
 
 ---
 
-## 📌 Project Status
+## Project Status
 
 Current milestone:
 
@@ -74,7 +74,7 @@ Project documentation is available in the `docs/` directory, including:
 
 ---
 
-## 🚀 Long-Term Vision
+## Long-Term Vision
 
 Aetheris aims to become a professional GPU-native simulation platform featuring:
 
